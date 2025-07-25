@@ -1,6 +1,7 @@
 # CodeAlpha_Phishing-Awareness-Training
 
 ✅ TASK 2: Phishing Awareness Training
+
 ● Create a presentation or online module focused on phishing attacks.
 
 ● Explain how to recognize phishing emails and fake websites.
